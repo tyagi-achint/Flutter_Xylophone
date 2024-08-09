@@ -1,5 +1,5 @@
 name: xylophone
-description: "A new Flutter project."
+description: "A Flutter music app that plays Xylophone sounds"
 
 publish_to: "none"
 
@@ -12,6 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.6
+  audioplayers: ^6.0.0
 
 dev_dependencies:
   flutter_test:
